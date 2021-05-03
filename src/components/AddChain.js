@@ -23,9 +23,9 @@ const addChainToKeplr = async (e) => {
           // The name of the chain to be displayed to the user.
           chainName: "Sentinel Testnet",
           // RPC endpoint of the chain.
-          rpc: "https://lcd-sentinel-turing-4.itastakers.com",
+          rpc: "https://rpc-sentinel-turing-4.itastakers.com",
           // REST endpoint of the chain.
-          rest: "https://rpc-sentinel-turing-4.itastakers.com",
+          rest: "https://lcd-sentinel-turing-4.itastakers.com",
           // Staking coin information
           stakeCurrency: {
             // Coin denomination to be displayed to the user.
