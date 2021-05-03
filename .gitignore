@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+build
+screenshots/APP-RXT.png
+screenshots/heaader-1.png
+screenshots/header-2.png
+screenshots/MENU-RXT.png
+screenshots/react-bootstrap-starter.png
